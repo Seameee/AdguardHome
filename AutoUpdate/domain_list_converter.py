@@ -12,10 +12,10 @@ def convert_list(input_filepath, output_filepath, source_type):
         
         if source_type == 'gfw':
             old_dns = r'/127.0.0.1#5353'
-            new_dns = r'/]tls://1.1.1.1'
+            new_dns = r'/]https://dns.cloudflare.com/dns-query'
         else:  # china
             old_dns = r'/114.114.114.114'
-            new_dns = r'/]tcp://223.6.6.6'
+            new_dns = r'/]211.137.160.5 211.137.160.185' # 使用你本地DNS
             
         for line in source_file:
             converted_line = re.sub(pattern_server, pattern_bracket, line)
