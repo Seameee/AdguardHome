@@ -34,10 +34,10 @@ jobs:
           base64 -d gfwlist.txt > gfwlist_decode.txt
 
           # Process domain lists
-          python domain_list_converter.py china accelerated-domains.china.conf
+          python domain_list_converter_public.py china accelerated-domains.china.conf
           chmod +x gfwlist2dnsmasq.sh
           ./gfwlist2dnsmasq.sh -o ./gfwlist_dnsmasq.conf
-          python domain_list_converter.py gfw gfwlist_dnsmasq.conf
+          python domain_list_converter_public.py gfw gfwlist_dnsmasq.conf
 
           # Create final configuration file
           {
@@ -49,8 +49,8 @@ jobs:
           } > dns_upstream_merged.txt
 
           # Copy final configuration to target locations
-          cp dns_upstream_merged.txt ../AdguardHome_Upstreams_Autoupdate.txt
-          cp dns_upstream_merged.txt ../AdguardHome_Upstreams_Autoupdate.yaml
+          cp dns_upstream_merged.txt ../AdguardHome_Upstreams_Autoupdate_Public.txt
+          cp dns_upstream_merged.txt ../AdguardHome_Upstreams_Autoupdate_Public.yaml
 
           # Clean up
           rm -f accelerated-domains.china.conf CNDomains_AdguardHome.txt \

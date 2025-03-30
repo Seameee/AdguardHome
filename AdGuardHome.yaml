@@ -33,7 +33,7 @@ dns:
   refuse_any: true
   upstream_dns:
   - https://dns.alidns.com/dns-query
-  upstream_dns_file: /root/AdguardHome_Upstreams.txt
+  upstream_dns_file: /root/AdguardHome_Upstreams_Public.txt
   bootstrap_dns:
   - tls://223.5.5.5
   all_servers: true

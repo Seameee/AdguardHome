@@ -15,7 +15,7 @@ def convert_list(input_filepath, output_filepath, source_type):
             new_dns = r'/]#'
         else:  # china
             old_dns = r'/114.114.114.114'
-            new_dns = r'/]211.137.160.5 211.137.160.185' # 使用你本地DNS
+            new_dns = r'/]https://dns.alidns.com/dns-query https://doh.pub/dns-query'
             
         for line in source_file:
             converted_line = re.sub(pattern_server, pattern_bracket, line)
