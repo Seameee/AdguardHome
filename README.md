@@ -1,3 +1,17 @@
+### 本仓库修改说明
+
+- **使用说明**：
+  一般用户应使用 **`AdguardHome_Upstreams_Autoupdate_Public.txt`**，而非 `AdguardHome_Upstreams_Autoupdate.txt`。
+  - **`Public` 版本**：已在国内配置阿里（`https://dns.alidns.com/dns-query`）和腾讯（`https://doh.pub/dns-query`）的公共 DNS，兼容性更好。
+  - **非 `Public` 版本**：使用本地运营商 DNS，可能因地区或运营商差异导致解析问题。
+
+- **自定义本地运营商 DNS**：
+  如需使用本地 DNS，可修改 `/AutoUpdate/domain_list_converter.py` 中的配置。
+
+以下为原内容
+
+---
+
 # AdGuardHome 优化配置方案
 
 一个我个人使用的 AdGuardHome 配置方案，使国内域名使用国内 DNS，获取最佳节点；指定被污染的域名使用境外DNS处理，使其返回正确的ip
