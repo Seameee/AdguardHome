@@ -1,4 +1,4 @@
-# Create Date: 2025-08-03 01:53:31
+# Create Date: 2025-08-04 01:53:36
 #
 https://dns.cloudflare.com/dns-query
 https://dns.momou.ch/dns-query
@@ -5617,6 +5617,8 @@ https://dns.rabbitdns.org/dns-query
 [/www2.ohchr.org/]#
 [/www2.rocketbbs.com/]#
 [/wwwhost.biz/]#
+[/wxw.cat/]#
+[/wxw.moe/]#
 [/wzyboy.im/]#
 [/x-art.com/]#
 [/x-berry.com/]#
