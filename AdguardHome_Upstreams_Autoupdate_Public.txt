@@ -1,4 +1,4 @@
-# Create Date: 2025-08-18 02:52:50
+# Create Date: 2025-08-19 02:26:34
 #
 https://dns.cloudflare.com/dns-query
 https://dns.momou.ch/dns-query
@@ -1275,6 +1275,7 @@ https://dns.rabbitdns.org/dns-query
 [/demo.unlock-music.dev/]#
 [/democrats.org/]#
 [/demosisto.hk/]#
+[/deno.dev/]#
 [/depositphotos.com/]#
 [/desc.se/]#
 [/desipro.de/]#
@@ -1343,6 +1344,7 @@ https://dns.rabbitdns.org/dns-query
 [/doc.new/]#
 [/docker.com/]#
 [/docker.io/]#
+[/docs.deno.com/]#
 [/docs.new/]#
 [/doctorvoice.org/]#
 [/documentingreality.com/]#
@@ -1865,6 +1867,7 @@ https://dns.rabbitdns.org/dns-query
 [/furbo.org/]#
 [/furhhdl.org/]#
 [/furinkan.com/]#
+[/furrybar.com/]#
 [/futurechinaforum.org/]#
 [/futuremessage.org/]#
 [/fux.com/]#
@@ -3444,6 +3447,7 @@ https://dns.rabbitdns.org/dns-query
 [/nationsonline.org/]#
 [/nationwide.com/]#
 [/naughtyamerica.com/]#
+[/naver.com/]#
 [/navyfamily.navy.mil/]#
 [/navyreserve.navy.mil/]#
 [/naweeklytimes.com/]#
