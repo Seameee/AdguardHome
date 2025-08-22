@@ -1,4 +1,4 @@
-# Create Date: 2025-08-21 02:23:47
+# Create Date: 2025-08-22 02:24:40
 #
 https://dns.cloudflare.com/dns-query
 https://dns.momou.ch/dns-query
@@ -2753,6 +2753,7 @@ https://dns.rabbitdns.org/dns-query
 [/itemdb.com/]#
 [/itemfix.com/]#
 [/ithelp.ithome.com.tw/]#
+[/itiger.com/]#
 [/itsaol.com/]#
 [/itshidden.com/]#
 [/itsky.it/]#
