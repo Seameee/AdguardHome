@@ -1,4 +1,4 @@
-# Create Date: 2025-08-23 01:21:38
+# Create Date: 2025-08-24 01:40:48
 #
 https://dns.cloudflare.com/dns-query
 https://dns.momou.ch/dns-query
@@ -1857,6 +1857,8 @@ https://dns.rabbitdns.org/dns-query
 [/ftx.com/]#
 [/fucd.com/]#
 [/fuchsia.dev/]#
+[/fuckccp.com/]#
+[/fuckccp.xyz/]#
 [/fuckgfw.org/]#
 [/fulione.com/]#
 [/fullerconsideration.com/]#
