@@ -1,4 +1,4 @@
-# Create Date: 2025-08-26 01:25:08
+# Create Date: 2025-08-27 01:22:40
 #
 https://dns.cloudflare.com/dns-query
 https://dns.momou.ch/dns-query
@@ -1685,6 +1685,7 @@ https://dns.rabbitdns.org/dns-query
 [/fdc89.jp/]#
 [/feedburner.com/]#
 [/feeder.co/]#
+[/feedly.com/]#
 [/feeds.fileforum.com/]#
 [/feedx.net/]#
 [/feelssh.com/]#
@@ -3315,6 +3316,7 @@ https://dns.rabbitdns.org/dns-query
 [/mog.com/]#
 [/mohu.club/]#
 [/mohu.rocks/]#
+[/moj.gov.tw/]#
 [/mojim.com/]#
 [/mol.gov.tw/]#
 [/molihua.org/]#
