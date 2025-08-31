@@ -1,4 +1,4 @@
-# Create Date: 2025-08-30 02:13:56
+# Create Date: 2025-08-31 02:24:42
 #
 https://dns.cloudflare.com/dns-query
 https://dns.momou.ch/dns-query
@@ -1375,7 +1375,6 @@ https://dns.rabbitdns.org/dns-query
 [/doujincafe.com/]#
 [/download.aircrack-ng.org/]#
 [/download.cnet.com/]#
-[/dpdns.org/]#
 [/dphk.org/]#
 [/dpool.top/]#
 [/dpp.org.tw/]#
