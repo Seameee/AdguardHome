@@ -1,4 +1,4 @@
-# Create Date: 2025-09-19 02:18:23
+# Create Date: 2025-09-20 02:11:55
 #
 https://dns.cloudflare.com/dns-query
 https://dns.momou.ch/dns-query
@@ -1909,6 +1909,7 @@ https://dns.rabbitdns.org/dns-query
 [/gardennetworks.com/]#
 [/gardennetworks.org/]#
 [/gartlive.com/]#
+[/garudalinux.org/]#
 [/gate.io/]#
 [/gatecoin.com/]#
 [/gather.com/]#
@@ -1984,6 +1985,7 @@ https://dns.rabbitdns.org/dns-query
 [/githubassets.com/]#
 [/githubcopilot.com/]#
 [/githubusercontent.com/]#
+[/gitlab.com/]#
 [/gitlab.net/]#
 [/gizlen.net/]#
 [/gjczz.com/]#
@@ -3565,6 +3567,7 @@ https://dns.rabbitdns.org/dns-query
 [/ninjacloak.com/]#
 [/ninjaproxy.ninja/]#
 [/nintendium.com/]#
+[/nirsoft.net/]#
 [/nitter.cc/]#
 [/nitter.net/]#
 [/niu.moe/]#
@@ -5401,6 +5404,7 @@ https://dns.rabbitdns.org/dns-query
 [/vpnworldwide.com/]#
 [/vporn.com/]#
 [/vpser.net/]#
+[/vpsxb.net/]#
 [/vraiesagesse.net/]#
 [/vrchat.com/]#
 [/vrmtr.com/]#
