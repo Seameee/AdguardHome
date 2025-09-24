@@ -1,4 +1,4 @@
-# Create Date: 2025-09-23 01:19:48
+# Create Date: 2025-09-24 01:20:10
 #
 https://dns.cloudflare.com/dns-query
 https://dns.momou.ch/dns-query
@@ -309,6 +309,7 @@ https://dns.rabbitdns.org/dns-query
 [/api-secure.recaptcha.net/]#
 [/api-verify.recaptcha.net/]#
 [/api.ai/]#
+[/api.palworldgame.com/]#
 [/api.pureapk.com/]#
 [/api.recaptcha.net/]#
 [/api.steampowered.com/]#
@@ -3667,6 +3668,7 @@ https://dns.rabbitdns.org/dns-query
 [/ocreampies.com/]#
 [/ocry.com/]#
 [/october-review.org/]#
+[/octocaptcha.com/]#
 [/oculus.com/]#
 [/oculuscdn.com/]#
 [/odysee.com/]#
