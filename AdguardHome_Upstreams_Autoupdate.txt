@@ -1,4 +1,4 @@
-# Create Date: 2025-10-02 01:18:55
+# Create Date: 2025-10-03 01:18:46
 #
 https://dns.cloudflare.com/dns-query
 https://dns.momou.ch/dns-query
@@ -4702,8 +4702,10 @@ https://dns.rabbitdns.org/dns-query
 [/tangren.us/]#
 [/tanks.gg/]#
 [/taoism.net/]#
+[/tap.io/]#
 [/tapanwap.com/]#
 [/tapatalk.com/]#
+[/taptap.io/]#
 [/tardigrade.io/]#
 [/tarr.uspto.gov/]#
 [/taup.net/]#
