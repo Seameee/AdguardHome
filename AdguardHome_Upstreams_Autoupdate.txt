@@ -1,4 +1,4 @@
-# Create Date: 2025-10-06 01:21:13
+# Create Date: 2025-10-07 01:19:45
 #
 https://dns.cloudflare.com/dns-query
 https://dns.momou.ch/dns-query
@@ -5324,6 +5324,7 @@ https://dns.rabbitdns.org/dns-query
 [/vilanet.me/]#
 [/vilavpn.com/]#
 [/vimeo.com/]#
+[/vimeocdn.com/]#
 [/vimperator.org/]#
 [/vincnd.com/]#
 [/vine.co/]#
