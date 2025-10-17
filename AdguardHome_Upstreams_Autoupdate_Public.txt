@@ -1,4 +1,4 @@
-# Create Date: 2025-10-16 02:19:06
+# Create Date: 2025-10-17 02:18:12
 #
 https://dns.cloudflare.com/dns-query
 https://dns.momou.ch/dns-query
@@ -757,7 +757,6 @@ https://dns.rabbitdns.org/dns-query
 [/btcbank.bank/]#
 [/btctrade.im/]#
 [/btdig.com/]#
-[/btdigg.org/]#
 [/btguard.com/]#
 [/btku.me/]#
 [/btku.org/]#
@@ -5478,6 +5477,7 @@ https://dns.rabbitdns.org/dns-query
 [/webrtc.org/]#
 [/webrush.net/]#
 [/webs-tv.net/]#
+[/websdr.org/]#
 [/website.informer.com/]#
 [/website.new/]#
 [/websitepulse.com/]#
@@ -5725,6 +5725,7 @@ https://dns.rabbitdns.org/dns-query
 [/xn--noss43i.com/]#
 [/xn--oiq.cc/]#
 [/xn--p8j9a0d9c9a.xn--q9jyb4c/]#
+[/xn--u2u927b.com/]#
 [/xnpool.com/]#
 [/xnxx.com/]#
 [/xpdo.net/]#
