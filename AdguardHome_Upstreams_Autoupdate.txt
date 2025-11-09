@@ -1,4 +1,4 @@
-# Create Date: 2025-11-08 02:14:53
+# Create Date: 2025-11-09 01:37:01
 #
 https://dns.cloudflare.com/dns-query
 https://dns.momou.ch/dns-query
@@ -1278,9 +1278,7 @@ https://dns.rabbitdns.org/dns-query
 [/definebabe.com/]#
 [/deja.com/]#
 [/delcamp.net/]#
-[/delicious.com/]#
 [/demo.unlock-music.dev/]#
-[/democrats.org/]#
 [/demosisto.hk/]#
 [/deno.dev/]#
 [/depositphotos.com/]#
